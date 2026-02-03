@@ -1,0 +1,1167 @@
+[
+  {
+    "question": "Which SQL function is used to find the third highest salary?",
+    "options": [
+      "ROW_NUMBER()",
+      "RANK()",
+      "DENSE_RANK()",
+      "COUNT()"
+    ],
+    "correct": 2,
+    "category": "sql",
+    "level": 1
+  },
+  {
+    "question": "Which clause is used to filter rows before grouping?",
+    "options": [
+      "HAVING",
+      "WHERE",
+      "GROUP BY",
+      "ORDER BY"
+    ],
+    "correct": 1,
+    "category": "sql",
+    "level": 1
+  },
+  {
+    "question": "Which SQL command is used to remove all rows from a table permanently?",
+    "options": [
+      "DELETE",
+      "DROP",
+      "TRUNCATE",
+      "REMOVE"
+    ],
+    "correct": 2,
+    "category": "sql",
+    "level": 1
+  },
+  {
+    "question": "Which function returns the current system date in Oracle?",
+    "options": [
+      "GETDATE()",
+      "NOW()",
+      "SYSDATE",
+      "CURDATE()"
+    ],
+    "correct": 2,
+    "category": "sql",
+    "level": 1
+  },
+  {
+    "question": "Which SQL keyword is used to find unique records?",
+    "options": [
+      "UNIQUE",
+      "PRIMARY",
+      "DISTINCT",
+      "DIFFERENT"
+    ],
+    "correct": 2,
+    "category": "sql",
+    "level": 1
+  },
+  {
+    "question": "Which SQL operator is used to combine results and remove duplicates?",
+    "options": [
+      "UNION ALL",
+      "INTERSECT",
+      "UNION",
+      "JOIN"
+    ],
+    "correct": 2,
+    "category": "sql",
+    "level": 1
+  },
+  {
+    "question": "Which clause is mandatory in SELECT statements?",
+    "options": [
+      "FROM",
+      "WHERE",
+      "GROUP BY",
+      "HAVING"
+    ],
+    "correct": 0,
+    "category": "sql",
+    "level": 1
+  },
+  {
+    "question": "Which function converts date to character in Oracle?",
+    "options": [
+      "TO_DATE",
+      "CAST",
+      "TO_CHAR",
+      "CONVERT"
+    ],
+    "correct": 2,
+    "category": "sql",
+    "level": 1
+  },
+  {
+    "question": "Which constraint does not allow NULL values?",
+    "options": [
+      "UNIQUE",
+      "CHECK",
+      "PRIMARY KEY",
+      "FOREIGN KEY"
+    ],
+    "correct": 2,
+    "category": "sql",
+    "level": 1
+  },
+  {
+    "question": "Which SQL statement is used to fetch data?",
+    "options": [
+      "INSERT",
+      "UPDATE",
+      "DELETE",
+      "SELECT"
+    ],
+    "correct": 3,
+    "category": "sql",
+    "level": 1
+  },
+
+  {
+    "question": "Which SQL clause is used after GROUP BY?",
+    "options": [
+      "WHERE",
+      "HAVING",
+      "ORDER BY",
+      "FROM"
+    ],
+    "correct": 1,
+    "category": "sql",
+    "level": 2
+  },
+  {
+    "question": "Which function returns the position of a substring?",
+    "options": [
+      "SUBSTR",
+      "INSTR",
+      "LENGTH",
+      "REPLACE"
+    ],
+    "correct": 1,
+    "category": "sql",
+    "level": 2
+  },
+  {
+    "question": "Which join returns matching rows from both tables?",
+    "options": [
+      "LEFT JOIN",
+      "RIGHT JOIN",
+      "FULL JOIN",
+      "INNER JOIN"
+    ],
+    "correct": 3,
+    "category": "sql",
+    "level": 2
+  },
+  {
+    "question": "Which SQL keyword is used to sort results?",
+    "options": [
+      "GROUP BY",
+      "ORDER BY",
+      "SORT BY",
+      "ARRANGE"
+    ],
+    "correct": 1,
+    "category": "sql",
+    "level": 2
+  },
+  {
+    "question": "Which SQL function returns number of characters in a string?",
+    "options": [
+      "COUNT",
+      "SIZE",
+      "LENGTH",
+      "CHARLEN"
+    ],
+    "correct": 2,
+    "category": "sql",
+    "level": 2
+  },
+  {
+    "question": "Which clause is used to check multiple values?",
+    "options": [
+      "BETWEEN",
+      "IN",
+      "LIKE",
+      "EXISTS"
+    ],
+    "correct": 1,
+    "category": "sql",
+    "level": 2
+  },
+  {
+    "question": "Which keyword is used to eliminate duplicate rows?",
+    "options": [
+      "DISTINCT",
+      "UNIQUE",
+      "PRIMARY",
+      "REMOVE"
+    ],
+    "correct": 0,
+    "category": "sql",
+    "level": 2
+  },
+  {
+    "question": "Which SQL function is used to replace characters?",
+    "options": [
+      "SUBSTR",
+      "REPLACE",
+      "INSTR",
+      "TRIM"
+    ],
+    "correct": 1,
+    "category": "sql",
+    "level": 2
+  },
+  {
+    "question": "Which operator returns records present in both queries?",
+    "options": [
+      "UNION",
+      "INTERSECT",
+      "MINUS",
+      "JOIN"
+    ],
+    "correct": 1,
+    "category": "sql",
+    "level": 2
+  },
+  {
+    "question": "Which SQL command is DDL?",
+    "options": [
+      "INSERT",
+      "UPDATE",
+      "CREATE",
+      "SELECT"
+    ],
+    "correct": 2,
+    "category": "sql",
+    "level": 2
+  },
+
+  {
+    "question": "Which SQL function is used to count total rows in a table?",
+    "options": ["SUM()", "COUNT()", "TOTAL()", "ROWS()"],
+    "correct": 1,
+    "category": "sql",
+    "level": 3
+  },
+  {
+    "question": "Which keyword is used to fetch only non-duplicate rows?",
+    "options": ["UNIQUE", "DISTINCT", "PRIMARY", "FILTER"],
+    "correct": 1,
+    "category": "sql",
+    "level": 3
+  },
+  {
+    "question": "Which SQL clause is used to filter grouped records?",
+    "options": ["WHERE", "GROUP BY", "HAVING", "ORDER BY"],
+    "correct": 2,
+    "category": "sql",
+    "level": 3
+  },
+  {
+    "question": "Which SQL operator returns rows present in first query but not second?",
+    "options": ["UNION", "INTERSECT", "MINUS", "JOIN"],
+    "correct": 2,
+    "category": "sql",
+    "level": 3
+  },
+  {
+    "question": "Which function converts string to date in Oracle?",
+    "options": ["TO_CHAR", "TO_DATE", "CAST", "CONVERT"],
+    "correct": 1,
+    "category": "sql",
+    "level": 3
+  },
+  {
+    "question": "Which SQL keyword is used to limit rows in Oracle?",
+    "options": ["LIMIT", "ROWNUM", "TOP", "FETCH"],
+    "correct": 1,
+    "category": "sql",
+    "level": 3
+  },
+  {
+    "question": "Which join returns all rows from both tables?",
+    "options": ["INNER JOIN", "LEFT JOIN", "RIGHT JOIN", "FULL JOIN"],
+    "correct": 3,
+    "category": "sql",
+    "level": 3
+  },
+  {
+    "question": "Which constraint ensures unique values?",
+    "options": ["CHECK", "NOT NULL", "UNIQUE", "DEFAULT"],
+    "correct": 2,
+    "category": "sql",
+    "level": 3
+  },
+  {
+    "question": "Which SQL function returns substring?",
+    "options": ["INSTR", "SUBSTR", "REPLACE", "TRIM"],
+    "correct": 1,
+    "category": "sql",
+    "level": 3
+  },
+  {
+    "question": "Which SQL command removes table structure?",
+    "options": ["DELETE", "TRUNCATE", "DROP", "REMOVE"],
+    "correct": 2,
+    "category": "sql",
+    "level": 3
+  },
+
+  {
+    "question": "Which function returns current year in Oracle?",
+    "options": ["YEAR()", "SYSDATE", "TO_CHAR", "CURRENT_DATE"],
+    "correct": 2,
+    "category": "sql",
+    "level": 4
+  },
+  {
+    "question": "Which clause is used with aggregate functions?",
+    "options": ["WHERE", "GROUP BY", "ORDER BY", "FROM"],
+    "correct": 1,
+    "category": "sql",
+    "level": 4
+  },
+  {
+    "question": "Which SQL statement is used to add column?",
+    "options": ["ALTER", "UPDATE", "INSERT", "MODIFY"],
+    "correct": 0,
+    "category": "sql",
+    "level": 4
+  },
+  {
+    "question": "Which SQL command saves transactions?",
+    "options": ["SAVE", "COMMIT", "ROLLBACK", "INSERT"],
+    "correct": 1,
+    "category": "sql",
+    "level": 4
+  },
+  {
+    "question": "Which SQL keyword is used for pattern matching?",
+    "options": ["MATCH", "IN", "LIKE", "BETWEEN"],
+    "correct": 2,
+    "category": "sql",
+    "level": 4
+  },
+  {
+    "question": "Which operator checks range of values?",
+    "options": ["IN", "LIKE", "BETWEEN", "EXISTS"],
+    "correct": 2,
+    "category": "sql",
+    "level": 4
+  },
+  {
+    "question": "Which SQL object generates sequence numbers?",
+    "options": ["INDEX", "SEQUENCE", "VIEW", "TRIGGER"],
+    "correct": 1,
+    "category": "sql",
+    "level": 4
+  },
+  {
+    "question": "Which join returns all rows from left table?",
+    "options": ["INNER JOIN", "RIGHT JOIN", "LEFT JOIN", "FULL JOIN"],
+    "correct": 2,
+    "category": "sql",
+    "level": 4
+  },
+  {
+    "question": "Which SQL keyword removes duplicates after union?",
+    "options": ["UNION ALL", "INTERSECT", "UNION", "MERGE"],
+    "correct": 2,
+    "category": "sql",
+    "level": 4
+  },
+  {
+    "question": "Which SQL clause sorts the result?",
+    "options": ["GROUP BY", "SORT BY", "ORDER BY", "ARRANGE"],
+    "correct": 2,
+    "category": "sql",
+    "level": 4
+  },
+
+  {
+    "question": "Which function trims spaces from both sides?",
+    "options": ["LTRIM", "RTRIM", "TRIM", "STRIP"],
+    "correct": 2,
+    "category": "sql",
+    "level": 5
+  },
+  {
+    "question": "Which SQL keyword creates virtual table?",
+    "options": ["TABLE", "VIEW", "INDEX", "SEQUENCE"],
+    "correct": 1,
+    "category": "sql",
+    "level": 5
+  },
+  {
+    "question": "Which join matches rows from same table?",
+    "options": ["INNER JOIN", "SELF JOIN", "OUTER JOIN", "CROSS JOIN"],
+    "correct": 1,
+    "category": "sql",
+    "level": 5
+  },
+  {
+    "question": "Which SQL function returns next date of weekday?",
+    "options": ["NEXT_DAY", "ADD_DAYS", "SYSDATE", "TRUNC"],
+    "correct": 0,
+    "category": "sql",
+    "level": 5
+  },
+  {
+    "question": "Which SQL function returns last day of month?",
+    "options": ["MONTH_END", "LAST_DAY", "TRUNC", "ADD_MONTHS"],
+    "correct": 1,
+    "category": "sql",
+    "level": 5
+  },
+  {
+    "question": "Which constraint enforces referential integrity?",
+    "options": ["PRIMARY KEY", "FOREIGN KEY", "UNIQUE", "CHECK"],
+    "correct": 1,
+    "category": "sql",
+    "level": 5
+  },
+  {
+    "question": "Which SQL statement revokes privileges?",
+    "options": ["DENY", "REMOVE", "REVOKE", "DROP"],
+    "correct": 2,
+    "category": "sql",
+    "level": 5
+  },
+  {
+    "question": "Which SQL clause combines multiple conditions?",
+    "options": ["OR", "AND", "BOTH A AND B", "ALL"],
+    "correct": 1,
+    "category": "sql",
+    "level": 5
+  },
+  {
+    "question": "Which SQL command permanently deletes table?",
+    "options": ["TRUNCATE", "DELETE", "DROP", "REMOVE"],
+    "correct": 2,
+    "category": "sql",
+    "level": 5
+  },
+  {
+    "question": "Which function finds character position?",
+    "options": ["SUBSTR", "INSTR", "REPLACE", "LENGTH"],
+    "correct": 1,
+    "category": "sql",
+    "level": 5
+  },
+
+{
+    "question": "Which SQL function is used to round numeric values?",
+    "options": ["ROUND()", "TRUNC()", "CEIL()", "FLOOR()"],
+    "correct": 0,
+    "category": "sql",
+    "level": 6
+  },
+  {
+    "question": "Which SQL clause is used to rename a column temporarily?",
+    "options": ["RENAME", "ALIAS", "AS", "CHANGE"],
+    "correct": 2,
+    "category": "sql",
+    "level": 6
+  },
+  {
+    "question": "Which SQL operator checks existence of rows in subquery?",
+    "options": ["IN", "EXISTS", "ANY", "ALL"],
+    "correct": 1,
+    "category": "sql",
+    "level": 6
+  },
+  {
+    "question": "Which SQL function returns minimum value?",
+    "options": ["MIN()", "LOW()", "LEAST()", "SMALL()"],
+    "correct": 0,
+    "category": "sql",
+    "level": 6
+  },
+  {
+    "question": "Which SQL statement is used to create index?",
+    "options": ["CREATE INDEX", "ADD INDEX", "MAKE INDEX", "NEW INDEX"],
+    "correct": 0,
+    "category": "sql",
+    "level": 6
+  },
+  {
+    "question": "Which SQL function converts number to character?",
+    "options": ["TO_CHAR", "TO_NUMBER", "CAST", "CONVERT"],
+    "correct": 0,
+    "category": "sql",
+    "level": 6
+  },
+  {
+    "question": "Which join produces Cartesian product?",
+    "options": ["INNER JOIN", "LEFT JOIN", "CROSS JOIN", "FULL JOIN"],
+    "correct": 2,
+    "category": "sql",
+    "level": 6
+  },
+  {
+    "question": "Which SQL function removes left spaces?",
+    "options": ["TRIM", "LTRIM", "RTRIM", "STRIP"],
+    "correct": 1,
+    "category": "sql",
+    "level": 6
+  },
+  {
+    "question": "Which SQL keyword restricts duplicate values in column?",
+    "options": ["PRIMARY KEY", "UNIQUE", "CHECK", "DEFAULT"],
+    "correct": 1,
+    "category": "sql",
+    "level": 6
+  },
+  {
+    "question": "Which SQL statement rolls back transactions?",
+    "options": ["CANCEL", "UNDO", "ROLLBACK", "RESET"],
+    "correct": 2,
+    "category": "sql",
+    "level": 6
+  },
+
+  {
+    "question": "Which SQL function returns absolute value?",
+    "options": ["ABS()", "MOD()", "ROUND()", "POWER()"],
+    "correct": 0,
+    "category": "sql",
+    "level": 7
+  },
+  {
+    "question": "Which SQL clause filters aggregated data?",
+    "options": ["WHERE", "GROUP BY", "HAVING", "ORDER BY"],
+    "correct": 2,
+    "category": "sql",
+    "level": 7
+  },
+  {
+    "question": "Which SQL statement creates view?",
+    "options": ["CREATE TABLE", "CREATE VIEW", "MAKE VIEW", "NEW VIEW"],
+    "correct": 1,
+    "category": "sql",
+    "level": 7
+  },
+  {
+    "question": "Which SQL function returns number of months between dates?",
+    "options": ["MONTH_DIFF", "DATEDIFF", "MONTHS_BETWEEN", "ADD_MONTHS"],
+    "correct": 2,
+    "category": "sql",
+    "level": 7
+  },
+  {
+    "question": "Which SQL function returns remainder?",
+    "options": ["DIV", "MOD()", "REM()", "REST()"],
+    "correct": 1,
+    "category": "sql",
+    "level": 7
+  },
+  {
+    "question": "Which SQL command removes all rows but keeps structure?",
+    "options": ["DELETE", "DROP", "TRUNCATE", "REMOVE"],
+    "correct": 2,
+    "category": "sql",
+    "level": 7
+  },
+  {
+    "question": "Which SQL constraint enforces valid values?",
+    "options": ["CHECK", "UNIQUE", "DEFAULT", "FOREIGN KEY"],
+    "correct": 0,
+    "category": "sql",
+    "level": 7
+  },
+  {
+    "question": "Which SQL function returns current timestamp?",
+    "options": ["SYSDATE", "CURRENT_TIMESTAMP", "NOW()", "GETDATE()"],
+    "correct": 1,
+    "category": "sql",
+    "level": 7
+  },
+  {
+    "question": "Which SQL operator combines conditions?",
+    "options": ["AND", "OR", "NOT", "ALL"],
+    "correct": 0,
+    "category": "sql",
+    "level": 7
+  },
+  {
+    "question": "Which SQL statement grants privileges?",
+    "options": ["ALLOW", "PERMIT", "GRANT", "AUTHORIZE"],
+    "correct": 2,
+    "category": "sql",
+    "level": 7
+  },
+
+  {
+    "question": "Which SQL function extracts year from date?",
+    "options": ["YEAR()", "EXTRACT()", "TO_CHAR", "DATEPART"],
+    "correct": 1,
+    "category": "sql",
+    "level": 8
+  },
+  {
+    "question": "Which SQL join returns unmatched rows as NULL?",
+    "options": ["INNER JOIN", "OUTER JOIN", "CROSS JOIN", "SELF JOIN"],
+    "correct": 1,
+    "category": "sql",
+    "level": 8
+  },
+  {
+    "question": "Which SQL clause limits number of rows?",
+    "options": ["ROWNUM", "LIMIT", "TOP", "FETCH"],
+    "correct": 0,
+    "category": "sql",
+    "level": 8
+  },
+  {
+    "question": "Which SQL object improves query performance?",
+    "options": ["VIEW", "SEQUENCE", "INDEX", "TRIGGER"],
+    "correct": 2,
+    "category": "sql",
+    "level": 8
+  },
+  {
+    "question": "Which SQL function returns last occurrence position?",
+    "options": ["INSTR", "SUBSTR", "REVERSE", "LOCATE"],
+    "correct": 0,
+    "category": "sql",
+    "level": 8
+  },
+  {
+    "question": "Which SQL command saves changes permanently?",
+    "options": ["COMMIT", "SAVE", "APPLY", "STORE"],
+    "correct": 0,
+    "category": "sql",
+    "level": 8
+  },
+  {
+    "question": "Which SQL statement removes privilege?",
+    "options": ["DELETE", "REMOVE", "REVOKE", "DROP"],
+    "correct": 2,
+    "category": "sql",
+    "level": 8
+  },
+  {
+    "question": "Which SQL clause sorts descending?",
+    "options": ["ASC", "DESC", "ORDER", "SORT"],
+    "correct": 1,
+    "category": "sql",
+    "level": 8
+  },
+  {
+    "question": "Which SQL function pads characters?",
+    "options": ["LPAD", "RPAD", "PAD", "FILL"],
+    "correct": 0,
+    "category": "sql",
+    "level": 8
+  },
+  {
+    "question": "Which SQL function removes duplicates?",
+    "options": ["DISTINCT", "UNIQUE", "FILTER", "GROUP"],
+    "correct": 0,
+    "category": "sql",
+    "level": 8
+  },
+
+  {
+    "question": "Which SQL clause is mandatory with HAVING?",
+    "options": ["WHERE", "GROUP BY", "ORDER BY", "FROM"],
+    "correct": 1,
+    "category": "sql",
+    "level": 9
+  },
+  {
+    "question": "Which SQL function returns power of number?",
+    "options": ["POWER()", "EXP()", "SQUARE()", "POW()"],
+    "correct": 0,
+    "category": "sql",
+    "level": 9
+  },
+  {
+    "question": "Which SQL statement creates synonym?",
+    "options": ["CREATE SYNONYM", "MAKE SYNONYM", "NEW SYNONYM", "ADD SYNONYM"],
+    "correct": 0,
+    "category": "sql",
+    "level": 9
+  },
+  {
+    "question": "Which SQL join matches same table rows?",
+    "options": ["SELF JOIN", "CROSS JOIN", "FULL JOIN", "OUTER JOIN"],
+    "correct": 0,
+    "category": "sql",
+    "level": 9
+  },
+  {
+    "question": "Which SQL function converts character to number?",
+    "options": ["TO_CHAR", "TO_NUMBER", "CAST", "CONVERT"],
+    "correct": 1,
+    "category": "sql",
+    "level": 9
+  },
+  {
+    "question": "Which SQL keyword checks NULL value?",
+    "options": ["IS NULL", "=", "NULL()", "EMPTY"],
+    "correct": 0,
+    "category": "sql",
+    "level": 9
+  },
+  {
+    "question": "Which SQL function returns current user?",
+    "options": ["USER()", "SHOW USER", "CURRENT_USER", "SESSION_USER"],
+    "correct": 1,
+    "category": "sql",
+    "level": 9
+  },
+  {
+    "question": "Which SQL clause combines result sets including duplicates?",
+    "options": ["UNION", "UNION ALL", "INTERSECT", "JOIN"],
+    "correct": 1,
+    "category": "sql",
+    "level": 9
+  },
+  {
+    "question": "Which SQL function returns date after adding months?",
+    "options": ["ADD_MONTHS", "NEXT_DAY", "TRUNC", "SYSDATE"],
+    "correct": 0,
+    "category": "sql",
+    "level": 9
+  },
+  {
+    "question": "Which SQL statement defines table structure?",
+    "options": ["CREATE", "INSERT", "UPDATE", "SELECT"],
+    "correct": 0,
+    "category": "sql",
+    "level": 9
+  },
+
+  {
+    "question": "Which SQL function extracts day from date?",
+    "options": ["DAY()", "EXTRACT()", "TO_CHAR", "DATEPART"],
+    "correct": 1,
+    "category": "sql",
+    "level": 10
+  },
+  {
+    "question": "Which SQL statement removes constraint?",
+    "options": ["DROP CONSTRAINT", "ALTER TABLE DROP", "DELETE CONSTRAINT", "REMOVE KEY"],
+    "correct": 1,
+    "category": "sql",
+    "level": 10
+  },
+  {
+    "question": "Which SQL function formats numbers?",
+    "options": ["TO_CHAR", "FORMAT", "CAST", "CONVERT"],
+    "correct": 0,
+    "category": "sql",
+    "level": 10
+  },
+  {
+    "question": "Which SQL operator compares multiple values?",
+    "options": ["ANY", "ALL", "IN", "BETWEEN"],
+    "correct": 2,
+    "category": "sql",
+    "level": 10
+  },
+  {
+    "question": "Which SQL command creates temporary table?",
+    "options": ["CREATE TEMP TABLE", "GLOBAL TEMPORARY", "CREATE TABLE", "TEMP TABLE"],
+    "correct": 1,
+    "category": "sql",
+    "level": 10
+  },
+  {
+    "question": "Which SQL clause filters rows after join?",
+    "options": ["WHERE", "HAVING", "GROUP BY", "ORDER BY"],
+    "correct": 0,
+    "category": "sql",
+    "level": 10
+  },
+  {
+    "question": "Which SQL keyword negates condition?",
+    "options": ["NOT", "NO", "DENY", "EXCEPT"],
+    "correct": 0,
+    "category": "sql",
+    "level": 10
+  },
+  {
+    "question": "Which SQL function returns length of string?",
+    "options": ["SIZE()", "LENGTH()", "COUNT()", "LEN()"],
+    "correct": 1,
+    "category": "sql",
+    "level": 10
+  },
+  {
+    "question": "Which SQL statement deletes specific rows?",
+    "options": ["TRUNCATE", "DELETE", "DROP", "REMOVE"],
+    "correct": 1,
+    "category": "sql",
+    "level": 10
+  },
+  {
+    "question": "Which SQL clause is optional in SELECT?",
+    "options": ["FROM", "WHERE", "SELECT", "ALL"],
+    "correct": 1,
+    "category": "sql",
+    "level": 10
+  },
+
+{
+    "question": "Which SQL analytic function assigns rank without gaps?",
+    "options": ["RANK()", "ROW_NUMBER()", "DENSE_RANK()", "COUNT()"],
+    "correct": 2,
+    "category": "sql",
+    "level": 11
+  },
+  {
+    "question": "Which SQL clause is evaluated after WHERE?",
+    "options": ["SELECT", "GROUP BY", "FROM", "JOIN"],
+    "correct": 1,
+    "category": "sql",
+    "level": 11
+  },
+  {
+    "question": "Which SQL function is used to get previous row value?",
+    "options": ["LEAD()", "LAG()", "RANK()", "ROW_NUMBER()"],
+    "correct": 1,
+    "category": "sql",
+    "level": 11
+  },
+  {
+    "question": "Which SQL statement merges insert and update operations?",
+    "options": ["JOIN", "MERGE", "UPSERT", "UNION"],
+    "correct": 1,
+    "category": "sql",
+    "level": 11
+  },
+  {
+    "question": "Which SQL clause defines window for analytic function?",
+    "options": ["GROUP BY", "OVER()", "PARTITION BY", "ORDER BY"],
+    "correct": 1,
+    "category": "sql",
+    "level": 11
+  },
+  {
+    "question": "Which SQL function returns running total?",
+    "options": ["SUM() OVER()", "TOTAL()", "COUNT()", "ROLLUP"],
+    "correct": 0,
+    "category": "sql",
+    "level": 11
+  },
+  {
+    "question": "Which SQL keyword groups rows into subtotals?",
+    "options": ["ROLLUP", "CUBE", "GROUP BY", "HAVING"],
+    "correct": 0,
+    "category": "sql",
+    "level": 11
+  },
+  {
+    "question": "Which SQL function returns next row value?",
+    "options": ["LAG()", "NEXT()", "LEAD()", "FOLLOW()"],
+    "correct": 2,
+    "category": "sql",
+    "level": 11
+  },
+  {
+    "question": "Which SQL feature allows conditional logic?",
+    "options": ["IF", "CASE", "DECODE", "SWITCH"],
+    "correct": 1,
+    "category": "sql",
+    "level": 11
+  },
+  {
+    "question": "Which SQL clause partitions analytic results?",
+    "options": ["GROUP BY", "PARTITION BY", "ORDER BY", "WHERE"],
+    "correct": 1,
+    "category": "sql",
+    "level": 11
+  },
+
+  {
+    "question": "Which SQL grouping operator produces all combinations?",
+    "options": ["ROLLUP", "CUBE", "GROUPING SETS", "UNION"],
+    "correct": 1,
+    "category": "sql",
+    "level": 12
+  },
+  {
+    "question": "Which SQL function returns first value in window?",
+    "options": ["FIRST()", "FIRST_VALUE()", "MIN()", "TOP()"],
+    "correct": 1,
+    "category": "sql",
+    "level": 12
+  },
+  {
+    "question": "Which SQL function returns last value in window?",
+    "options": ["LAST()", "LAST_VALUE()", "MAX()", "BOTTOM()"],
+    "correct": 1,
+    "category": "sql",
+    "level": 12
+  },
+  {
+    "question": "Which SQL clause allows multiple groupings?",
+    "options": ["CUBE", "ROLLUP", "GROUPING SETS", "HAVING"],
+    "correct": 2,
+    "category": "sql",
+    "level": 12
+  },
+  {
+    "question": "Which SQL keyword improves performance by precomputing results?",
+    "options": ["VIEW", "MATERIALIZED VIEW", "INDEX", "SEQUENCE"],
+    "correct": 1,
+    "category": "sql",
+    "level": 12
+  },
+  {
+    "question": "Which SQL function returns percentile rank?",
+    "options": ["PERCENT_RANK()", "RANK()", "DENSE_RANK()", "NTILE()"],
+    "correct": 0,
+    "category": "sql",
+    "level": 12
+  },
+  {
+    "question": "Which SQL function divides rows into buckets?",
+    "options": ["NTILE()", "RANK()", "CUBE()", "PARTITION()"],
+    "correct": 0,
+    "category": "sql",
+    "level": 12
+  },
+  {
+    "question": "Which SQL clause identifies super-aggregate rows?",
+    "options": ["GROUPING()", "HAVING", "ROLLUP", "CUBE"],
+    "correct": 0,
+    "category": "sql",
+    "level": 12
+  },
+  {
+    "question": "Which SQL feature stores query result physically?",
+    "options": ["VIEW", "INDEX", "MATERIALIZED VIEW", "SYNONYM"],
+    "correct": 2,
+    "category": "sql",
+    "level": 12
+  },
+  {
+    "question": "Which SQL statement refreshes materialized view?",
+    "options": ["REFRESH", "ALTER", "UPDATE", "COMMIT"],
+    "correct": 0,
+    "category": "sql",
+    "level": 12
+  },
+
+  {
+    "question": "Which SQL isolation level prevents dirty reads?",
+    "options": ["READ UNCOMMITTED", "READ COMMITTED", "REPEATABLE READ", "SERIALIZABLE"],
+    "correct": 1,
+    "category": "sql",
+    "level": 13
+  },
+  {
+    "question": "Which SQL isolation level prevents phantom reads?",
+    "options": ["READ COMMITTED", "REPEATABLE READ", "SERIALIZABLE", "READ UNCOMMITTED"],
+    "correct": 2,
+    "category": "sql",
+    "level": 13
+  },
+  {
+    "question": "Which SQL statement locks rows?",
+    "options": ["LOCK TABLE", "SELECT FOR UPDATE", "HOLDLOCK", "ROWLOCK"],
+    "correct": 1,
+    "category": "sql",
+    "level": 13
+  },
+  {
+    "question": "Which SQL feature enforces business logic?",
+    "options": ["VIEW", "TRIGGER", "INDEX", "SEQUENCE"],
+    "correct": 1,
+    "category": "sql",
+    "level": 13
+  },
+  {
+    "question": "Which SQL trigger fires automatically?",
+    "options": ["MANUAL", "BEFORE/AFTER", "ON DEMAND", "STATIC"],
+    "correct": 1,
+    "category": "sql",
+    "level": 13
+  },
+  {
+    "question": "Which SQL clause is used in trigger timing?",
+    "options": ["WHEN", "BEFORE", "AFTER", "DURING"],
+    "correct": 2,
+    "category": "sql",
+    "level": 13
+  },
+  {
+    "question": "Which SQL feature stores procedural code?",
+    "options": ["VIEW", "FUNCTION", "PROCEDURE", "PACKAGE"],
+    "correct": 2,
+    "category": "sql",
+    "level": 13
+  },
+  {
+    "question": "Which SQL object improves multi-user access?",
+    "options": ["LOCK", "TRANSACTION", "INDEX", "COMMIT"],
+    "correct": 1,
+    "category": "sql",
+    "level": 13
+  },
+  {
+    "question": "Which SQL command defines transaction boundary?",
+    "options": ["SAVEPOINT", "COMMIT", "ROLLBACK", "ALL"],
+    "correct": 3,
+    "category": "sql",
+    "level": 13
+  },
+  {
+    "question": "Which SQL clause controls transaction visibility?",
+    "options": ["ISOLATION LEVEL", "LOCK MODE", "TRANSACTION MODE", "SESSION"],
+    "correct": 0,
+    "category": "sql",
+    "level": 13
+  },
+
+  {
+    "question": "Which SQL feature allows reuse of execution plan?",
+    "options": ["VIEW", "CURSOR", "INDEX", "PACKAGE"],
+    "correct": 1,
+    "category": "sql",
+    "level": 14
+  },
+  {
+    "question": "Which SQL cursor type reflects data changes?",
+    "options": ["STATIC", "DYNAMIC", "FORWARD ONLY", "KEYSET"],
+    "correct": 1,
+    "category": "sql",
+    "level": 14
+  },
+  {
+    "question": "Which SQL object groups procedures and functions?",
+    "options": ["PACKAGE", "TRIGGER", "VIEW", "SCHEMA"],
+    "correct": 0,
+    "category": "sql",
+    "level": 14
+  },
+  {
+    "question": "Which SQL feature reduces parsing overhead?",
+    "options": ["BIND VARIABLES", "INDEX", "VIEW", "SEQUENCE"],
+    "correct": 0,
+    "category": "sql",
+    "level": 14
+  },
+  {
+    "question": "Which SQL hint forces index usage?",
+    "options": ["FULL", "INDEX", "NO_INDEX", "USE_INDEX"],
+    "correct": 1,
+    "category": "sql",
+    "level": 14
+  },
+  {
+    "question": "Which SQL operation compiles stored procedure?",
+    "options": ["EXECUTE", "COMPILE", "ALTER", "RUN"],
+    "correct": 2,
+    "category": "sql",
+    "level": 14
+  },
+  {
+    "question": "Which SQL object defines security access?",
+    "options": ["ROLE", "VIEW", "INDEX", "TRIGGER"],
+    "correct": 0,
+    "category": "sql",
+    "level": 14
+  },
+  {
+    "question": "Which SQL clause improves parallel execution?",
+    "options": ["PARALLEL", "SERIAL", "FAST", "DIRECT"],
+    "correct": 0,
+    "category": "sql",
+    "level": 14
+  },
+  {
+    "question": "Which SQL feature stores execution statistics?",
+    "options": ["AWR", "REDO", "UNDO", "TEMP"],
+    "correct": 0,
+    "category": "sql",
+    "level": 14
+  },
+  {
+    "question": "Which SQL object abstracts database schema?",
+    "options": ["SYNONYM", "VIEW", "ROLE", "SEQUENCE"],
+    "correct": 0,
+    "category": "sql",
+    "level": 14
+  },
+
+  {
+    "question": "Which SQL feature enables point-in-time recovery?",
+    "options": ["FLASHBACK", "UNDO", "REDO", "ARCHIVE"],
+    "correct": 0,
+    "category": "sql",
+    "level": 15
+  },
+  {
+    "question": "Which SQL object records all database changes?",
+    "options": ["UNDO", "REDO LOG", "TEMP", "CONTROL FILE"],
+    "correct": 1,
+    "category": "sql",
+    "level": 15
+  },
+  {
+    "question": "Which SQL feature supports data versioning?",
+    "options": ["FLASHBACK QUERY", "TRIGGER", "VIEW", "INDEX"],
+    "correct": 0,
+    "category": "sql",
+    "level": 15
+  },
+  {
+    "question": "Which SQL clause forces full table scan?",
+    "options": ["FULL", "INDEX", "PARALLEL", "SCAN"],
+    "correct": 0,
+    "category": "sql",
+    "level": 15
+  },
+  {
+    "question": "Which SQL feature handles distributed transactions?",
+    "options": ["TWO-PHASE COMMIT", "COMMIT", "ROLLBACK", "SAVEPOINT"],
+    "correct": 0,
+    "category": "sql",
+    "level": 15
+  },
+  {
+    "question": "Which SQL object manages shared memory?",
+    "options": ["SGA", "PGA", "BUFFER", "CACHE"],
+    "correct": 0,
+    "category": "sql",
+    "level": 15
+  },
+  {
+    "question": "Which SQL feature ensures ACID properties?",
+    "options": ["TRANSACTION", "LOCK", "INDEX", "VIEW"],
+    "correct": 0,
+    "category": "sql",
+    "level": 15
+  },
+  {
+    "question": "Which SQL operation synchronizes standby database?",
+    "options": ["LOG SHIPPING", "REPLICATION", "SYNC", "BACKUP"],
+    "correct": 0,
+    "category": "sql",
+    "level": 15
+  },
+  {
+    "question": "Which SQL feature minimizes redo generation?",
+    "options": ["NOLOGGING", "FAST_COMMIT", "DIRECT_PATH", "TEMP"],
+    "correct": 0,
+    "category": "sql",
+    "level": 15
+  },
+  {
+    "question": "Which SQL architecture supports high availability?",
+    "options": ["RAC", "SINGLE INSTANCE", "CLIENT SERVER", "STANDALONE"],
+    "correct": 0,
+    "category": "sql",
+    "level": 15
+  }
+
+]

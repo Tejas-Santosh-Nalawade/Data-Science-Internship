@@ -1,0 +1,882 @@
+Power BI – 110 MCQ Interview Questions (Mixed Level)
+Options with Correct Answers
+1. Power BI Desktop is mainly used for?
+A) Database Administration
+B) Report Development
+C) Web Hosting
+D) Network Monitoring
+Answer: B
+
+
+2. Which file format is used to save Power BI reports?
+A) .xlsx
+B) .pbix
+C) .csv
+D) .docx
+Answer: B
+
+
+3. Which language is used in Power Query?
+A) SQL
+B) Python
+C) M
+D) DAX
+Answer: C
+
+
+4. DAX stands for?
+A) Data Access Expression
+B) Data Analysis Expressions
+C) Data Analytics XML
+D) Data Axis X
+Answer: B
+
+
+5. Which view is used to create relationships?
+A) Report View
+B) Data View
+C) Model View
+D) Query View
+Answer: C
+
+
+6. How many active relationships can exist between two tables?
+A) One
+B) Two
+C) Three
+D) Unlimited
+Answer: A
+
+
+7. Which connectivity mode stores data in memory?
+A) DirectQuery
+B) Live Connection
+C) Import
+D) Streaming
+Answer: C
+
+
+8. Which feature saves report states?
+A) Bookmark
+B) Tooltip
+C) Drilldown
+D) Slicer
+Answer: A
+
+
+9. Which DAX function modifies filter context?
+A) SUM
+B) FILTER
+C) CALCULATE
+D) COUNT
+Answer: C
+
+
+10. Which engine is used for in-memory analytics?
+A) Hadoop
+B) VertiPaq
+C) Spark
+D) SQL
+Answer: B
+
+
+11. Which filter affects the entire report?
+A) Visual
+B) Page
+C) Report
+D) Drill
+Answer: C
+
+
+12. Which table contains measures?
+A) Dimension
+B) Lookup
+C) Fact
+D) Bridge
+Answer: C
+
+
+13. Which tool is used for ETL?
+A) SSMS
+B) Power Query
+C) DAX Studio
+D) ADF
+Answer: B
+
+
+14. What is a dashboard?
+A) Multi-page report
+B) Single page visuals
+C) Dataset
+D) Model
+Answer: B
+
+
+15. Which DAX function returns distinct count?
+A) COUNT
+B) COUNTX
+C) DISTINCTCOUNT
+D) SUM
+Answer: C
+
+
+16. Which join returns only matching rows?
+A) Left
+B) Right
+C) Inner
+D) Full
+Answer: C
+
+
+17. Which mode supports real-time data?
+A) Import
+B) DirectQuery
+C) Cached
+D) Excel
+Answer: B
+
+
+18. What is the purpose of Gateway?
+A) Modeling
+B) Visualization
+C) On-premise access
+D) Sharing
+Answer: C
+
+
+19. Which visual is used for geo data?
+A) Pie
+B) Line
+C) Map
+D) Table
+Answer: C
+
+
+20. Power BI Service is:
+A) Desktop
+B) Mobile App
+C) Cloud Platform
+D) Database
+Answer: C
+
+
+21. Which DAX function returns rank?
+A) RANK
+B) RANKX
+C) TOPN
+D) ORDER
+Answer: B
+
+
+22. Which function removes all filters?
+A) ALL
+B) REMOVEFILTERS
+C) CLEAR
+D) RESET
+Answer: A
+
+
+23. Which visual shows trend over time?
+A) Bar
+B) Line
+C) Pie
+D) Map
+Answer: B
+
+
+24. Which join returns all rows from both tables?
+A) Left
+B) Right
+C) Inner
+D) Full
+Answer: D
+
+
+25. Which feature allows navigation between pages?
+A) Bookmark
+B) Page Navigation
+C) Tooltip
+D) Slicer
+Answer: B
+
+
+26. Which DAX returns running total YTD?
+A) TOTALYTD
+B) SUM
+C) COUNT
+D) AVERAGE
+Answer: A
+
+
+27. Which table should have unique values for relationships?
+A) Fact
+B) Dimension
+C) Bridge
+D) Transaction
+Answer: B
+
+
+28. What is Row Level Security used for?
+A) Formatting
+B) Filtering by user
+C) Modeling
+D) Sharing
+Answer: B
+
+
+29. Which visual shows part-to-whole?
+A) Bar
+B) Line
+C) Pie
+D) Scatter
+Answer: C
+
+
+30. Which connectivity mode supports composite models?
+A) Import
+B) DirectQuery
+C) Live
+D) Import & DirectQuery
+Answer: D
+
+
+31. Which DAX function returns previous year?
+A) SAMEPERIODLASTYEAR
+B) DATEADD
+C) PARALLELPERIOD
+D) PREVIOUSYEAR
+Answer: A
+
+
+32. Which tool is used to monitor performance?
+A) DAX Studio
+B) Performance Analyzer
+C) Gateway
+D) Service
+Answer: B
+
+
+33. Which feature syncs slicers across pages?
+A) Bookmark
+B) Sync Slicers
+C) Drill
+D) Page Filter
+Answer: B
+
+
+34. Which DAX returns median?
+A) AVG
+B) MEAN
+C) MEDIAN
+D) CENTER
+Answer: C
+
+
+35. Which visual is best for correlation?
+A) Scatter
+B) Bar
+C) Pie
+D) Card
+Answer: A
+
+
+36. Which function creates calculated tables?
+A) SUMMARIZE
+B) CALCULATE
+C) FILTER
+D) VALUES
+Answer: A
+
+
+37. Which license supports paginated reports?
+A) Free
+B) Pro
+C) Premium
+D) Mobile
+Answer: C
+
+
+38. Which DAX handles errors?
+A) TRY
+B) IFERROR
+C) ERROR
+D) CATCH
+Answer: B
+
+
+39. Which visual shows variance?
+A) Waterfall
+B) Gauge
+C) Pie
+D) Map
+Answer: A
+
+
+40. Which feature enables natural language queries?
+A) Q&A
+B) AI Visual
+C) Chat
+D) Copilot
+Answer: A
+
+
+41. Which DAX function returns rank?
+A) RANK
+B) RANKX
+C) TOPN
+D) ORDER
+Answer: B
+
+
+42. Which function removes all filters?
+A) ALL
+B) REMOVEFILTERS
+C) CLEAR
+D) RESET
+Answer: A
+
+
+43. Which visual shows trend over time?
+A) Bar
+B) Line
+C) Pie
+D) Map
+Answer: B
+
+
+44. Which join returns all rows from both tables?
+A) Left
+B) Right
+C) Inner
+D) Full
+Answer: D
+
+
+45. Which feature allows navigation between pages?
+A) Bookmark
+B) Page Navigation
+C) Tooltip
+D) Slicer
+Answer: B
+
+
+46. Which DAX returns running total YTD?
+A) TOTALYTD
+B) SUM
+C) COUNT
+D) AVERAGE
+Answer: A
+
+
+47. Which table should have unique values for relationships?
+A) Fact
+B) Dimension
+C) Bridge
+D) Transaction
+Answer: B
+
+
+48. What is Row Level Security used for?
+A) Formatting
+B) Filtering by user
+C) Modeling
+D) Sharing
+Answer: B
+
+
+49. Which visual shows part-to-whole?
+A) Bar
+B) Line
+C) Pie
+D) Scatter
+Answer: C
+
+
+50. Which connectivity mode supports composite models?
+A) Import
+B) DirectQuery
+C) Live
+D) Import & DirectQuery
+Answer: D
+
+
+51. Which DAX function returns previous year?
+A) SAMEPERIODLASTYEAR
+B) DATEADD
+C) PARALLELPERIOD
+D) PREVIOUSYEAR
+Answer: A
+
+
+52. Which tool is used to monitor performance?
+A) DAX Studio
+B) Performance Analyzer
+C) Gateway
+D) Service
+Answer: B
+
+
+53. Which feature syncs slicers across pages?
+A) Bookmark
+B) Sync Slicers
+C) Drill
+D) Page Filter
+Answer: B
+
+
+54. Which DAX returns median?
+A) AVG
+B) MEAN
+C) MEDIAN
+D) CENTER
+Answer: C
+
+
+55. Which visual is best for correlation?
+A) Scatter
+B) Bar
+C) Pie
+D) Card
+Answer: A
+
+
+56. Which function creates calculated tables?
+A) SUMMARIZE
+B) CALCULATE
+C) FILTER
+D) VALUES
+Answer: A
+
+
+57. Which license supports paginated reports?
+A) Free
+B) Pro
+C) Premium
+D) Mobile
+Answer: C
+
+
+58. Which DAX handles errors?
+A) TRY
+B) IFERROR
+C) ERROR
+D) CATCH
+Answer: B
+
+
+59. Which visual shows variance?
+A) Waterfall
+B) Gauge
+C) Pie
+D) Map
+Answer: A
+
+
+60. Which feature enables natural language queries?
+A) Q&A
+B) AI Visual
+C) Chat
+D) Copilot
+Answer: A
+
+
+61. Which DAX function returns rank?
+A) RANK
+B) RANKX
+C) TOPN
+D) ORDER
+Answer: B
+
+
+62. Which function removes all filters?
+A) ALL
+B) REMOVEFILTERS
+C) CLEAR
+D) RESET
+Answer: A
+
+
+63. Which visual shows trend over time?
+A) Bar
+B) Line
+C) Pie
+D) Map
+Answer: B
+
+
+64. Which join returns all rows from both tables?
+A) Left
+B) Right
+C) Inner
+D) Full
+Answer: D
+
+
+65. Which feature allows navigation between pages?
+A) Bookmark
+B) Page Navigation
+C) Tooltip
+D) Slicer
+Answer: B
+
+
+66. Which DAX returns running total YTD?
+A) TOTALYTD
+B) SUM
+C) COUNT
+D) AVERAGE
+Answer: A
+
+
+67. Which table should have unique values for relationships?
+A) Fact
+B) Dimension
+C) Bridge
+D) Transaction
+Answer: B
+
+
+68. What is Row Level Security used for?
+A) Formatting
+B) Filtering by user
+C) Modeling
+D) Sharing
+Answer: B
+
+
+69. Which visual shows part-to-whole?
+A) Bar
+B) Line
+C) Pie
+D) Scatter
+Answer: C
+
+
+70. Which connectivity mode supports composite models?
+A) Import
+B) DirectQuery
+C) Live
+D) Import & DirectQuery
+Answer: D
+
+
+71. Which DAX function returns previous year?
+A) SAMEPERIODLASTYEAR
+B) DATEADD
+C) PARALLELPERIOD
+D) PREVIOUSYEAR
+Answer: A
+
+
+72. Which tool is used to monitor performance?
+A) DAX Studio
+B) Performance Analyzer
+C) Gateway
+D) Service
+Answer: B
+
+
+73. Which feature syncs slicers across pages?
+A) Bookmark
+B) Sync Slicers
+C) Drill
+D) Page Filter
+Answer: B
+
+
+74. Which DAX returns median?
+A) AVG
+B) MEAN
+C) MEDIAN
+D) CENTER
+Answer: C
+
+
+75. Which visual is best for correlation?
+A) Scatter
+B) Bar
+C) Pie
+D) Card
+Answer: A
+
+
+76. Which function creates calculated tables?
+A) SUMMARIZE
+B) CALCULATE
+C) FILTER
+D) VALUES
+Answer: A
+
+
+77. Which license supports paginated reports?
+A) Free
+B) Pro
+C) Premium
+D) Mobile
+Answer: C
+
+
+78. Which DAX handles errors?
+A) TRY
+B) IFERROR
+C) ERROR
+D) CATCH
+Answer: B
+
+
+79. Which visual shows variance?
+A) Waterfall
+B) Gauge
+C) Pie
+D) Map
+Answer: A
+
+
+80. Which feature enables natural language queries?
+A) Q&A
+B) AI Visual
+C) Chat
+D) Copilot
+Answer: A
+
+
+81. Which DAX function returns rank?
+A) RANK
+B) RANKX
+C) TOPN
+D) ORDER
+Answer: B
+
+
+82. Which function removes all filters?
+A) ALL
+B) REMOVEFILTERS
+C) CLEAR
+D) RESET
+Answer: A
+
+
+83. Which visual shows trend over time?
+A) Bar
+B) Line
+C) Pie
+D) Map
+Answer: B
+
+
+84. Which join returns all rows from both tables?
+A) Left
+B) Right
+C) Inner
+D) Full
+Answer: D
+
+
+85. Which feature allows navigation between pages?
+A) Bookmark
+B) Page Navigation
+C) Tooltip
+D) Slicer
+Answer: B
+
+
+86. Which DAX returns running total YTD?
+A) TOTALYTD
+B) SUM
+C) COUNT
+D) AVERAGE
+Answer: A
+
+
+87. Which table should have unique values for relationships?
+A) Fact
+B) Dimension
+C) Bridge
+D) Transaction
+Answer: B
+
+
+88. What is Row Level Security used for?
+A) Formatting
+B) Filtering by user
+C) Modeling
+D) Sharing
+Answer: B
+
+
+89. Which visual shows part-to-whole?
+A) Bar
+B) Line
+C) Pie
+D) Scatter
+Answer: C
+
+
+90. Which connectivity mode supports composite models?
+A) Import
+B) DirectQuery
+C) Live
+D) Import & DirectQuery
+Answer: D
+
+
+91. Which DAX function returns previous year?
+A) SAMEPERIODLASTYEAR
+B) DATEADD
+C) PARALLELPERIOD
+D) PREVIOUSYEAR
+Answer: A
+
+
+92. Which tool is used to monitor performance?
+A) DAX Studio
+B) Performance Analyzer
+C) Gateway
+D) Service
+Answer: B
+
+
+93. Which feature syncs slicers across pages?
+A) Bookmark
+B) Sync Slicers
+C) Drill
+D) Page Filter
+Answer: B
+
+
+94. Which DAX returns median?
+A) AVG
+B) MEAN
+C) MEDIAN
+D) CENTER
+Answer: C
+
+
+95. Which visual is best for correlation?
+A) Scatter
+B) Bar
+C) Pie
+D) Card
+Answer: A
+
+
+96. Which function creates calculated tables?
+A) SUMMARIZE
+B) CALCULATE
+C) FILTER
+D) VALUES
+Answer: A
+
+
+97. Which license supports paginated reports?
+A) Free
+B) Pro
+C) Premium
+D) Mobile
+Answer: C
+
+
+98. Which DAX handles errors?
+A) TRY
+B) IFERROR
+C) ERROR
+D) CATCH
+Answer: B
+
+
+99. Which visual shows variance?
+A) Waterfall
+B) Gauge
+C) Pie
+D) Map
+Answer: A
+
+
+100. Which feature enables natural language queries?
+A) Q&A
+B) AI Visual
+C) Chat
+D) Copilot
+Answer: A
+
+
+101. Which DAX function returns rank?
+A) RANK
+B) RANKX
+C) TOPN
+D) ORDER
+Answer: B
+
+
+102. Which function removes all filters?
+A) ALL
+B) REMOVEFILTERS
+C) CLEAR
+D) RESET
+Answer: A
+
+
+103. Which visual shows trend over time?
+A) Bar
+B) Line
+C) Pie
+D) Map
+Answer: B
+
+
+104. Which join returns all rows from both tables?
+A) Left
+B) Right
+C) Inner
+D) Full
+Answer: D
+
+
+105. Which feature allows navigation between pages?
+A) Bookmark
+B) Page Navigation
+C) Tooltip
+D) Slicer
+Answer: B
+
+
+106. Which DAX returns running total YTD?
+A) TOTALYTD
+B) SUM
+C) COUNT
+D) AVERAGE
+Answer: A
+
+
+107. Which table should have unique values for relationships?
+A) Fact
+B) Dimension
+C) Bridge
+D) Transaction
+Answer: B
+
+
+108. What is Row Level Security used for?
+A) Formatting
+B) Filtering by user
+C) Modeling
+D) Sharing
+Answer: B
+
+
+109. Which visual shows part-to-whole?
+A) Bar
+B) Line
+C) Pie
+D) Scatter
+Answer: C
+
+
+110. Which connectivity mode supports composite models?
+A) Import
+B) DirectQuery
+C) Live
+D) Import & DirectQuery
+Answer: D
+
+

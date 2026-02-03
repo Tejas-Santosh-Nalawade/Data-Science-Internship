@@ -1,0 +1,782 @@
+[
+  {
+    "question": "Power BI Desktop is mainly used for?",
+    "options": ["Database Administration", "Report Development", "Web Hosting", "Network Monitoring"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 1
+  },
+  {
+    "question": "Which file format is used to save Power BI reports?",
+    "options": [".xlsx", ".pbix", ".csv", ".docx"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 1
+  },
+  {
+    "question": "Which language is used in Power Query?",
+    "options": ["SQL", "Python", "M", "DAX"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 1
+  },
+  {
+    "question": "DAX stands for?",
+    "options": ["Data Access Expression", "Data Analysis Expressions", "Data Analytics XML", "Data Axis X"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 1
+  },
+  {
+    "question": "Which view is used to create relationships?",
+    "options": ["Report View", "Data View", "Model View", "Query View"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 1
+  },
+  {
+    "question": "How many active relationships can exist between two tables?",
+    "options": ["One", "Two", "Three", "Unlimited"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 1
+  },
+  {
+    "question": "Which connectivity mode stores data in memory?",
+    "options": ["DirectQuery", "Live Connection", "Import", "Streaming"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 1
+  },
+  {
+    "question": "Which feature saves report states?",
+    "options": ["Bookmark", "Tooltip", "Drilldown", "Slicer"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 1
+  },
+  {
+    "question": "Which DAX function modifies filter context?",
+    "options": ["SUM", "FILTER", "CALCULATE", "COUNT"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 1
+  },
+  {
+    "question": "Which engine is used for in-memory analytics?",
+    "options": ["Hadoop", "VertiPaq", "Spark", "SQL"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 1
+  },
+
+  {
+    "question": "Which filter affects the entire report?",
+    "options": ["Visual", "Page", "Report", "Drill"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 2
+  },
+  {
+    "question": "Which table contains measures?",
+    "options": ["Dimension", "Lookup", "Fact", "Bridge"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 2
+  },
+  {
+    "question": "Which tool is used for ETL?",
+    "options": ["SSMS", "Power Query", "DAX Studio", "ADF"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 2
+  },
+  {
+    "question": "What is a dashboard?",
+    "options": ["Multi-page report", "Single page visuals", "Dataset", "Model"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 2
+  },
+  {
+    "question": "Which DAX function returns distinct count?",
+    "options": ["COUNT", "COUNTX", "DISTINCTCOUNT", "SUM"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 2
+  },
+  {
+    "question": "Which join returns only matching rows?",
+    "options": ["Left", "Right", "Inner", "Full"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 2
+  },
+  {
+    "question": "Which mode supports real-time data?",
+    "options": ["Import", "DirectQuery", "Cached", "Excel"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 2
+  },
+  {
+    "question": "What is the purpose of Gateway?",
+    "options": ["Modeling", "Visualization", "On-premise access", "Sharing"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 2
+  },
+  {
+    "question": "Which visual is used for geo data?",
+    "options": ["Pie", "Line", "Map", "Table"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 2
+  },
+  {
+    "question": "Power BI Service is:",
+    "options": ["Desktop", "Mobile App", "Cloud Platform", "Database"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 2
+  },
+
+  {
+    "question": "Which DAX function returns rank?",
+    "options": ["RANK", "RANKX", "TOPN", "ORDER"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 3
+  },
+  {
+    "question": "Which function removes all filters?",
+    "options": ["ALL", "REMOVEFILTERS", "CLEAR", "RESET"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 3
+  },
+  {
+    "question": "Which visual shows trend over time?",
+    "options": ["Bar", "Line", "Pie", "Map"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 3
+  },
+  {
+    "question": "Which join returns all rows from both tables?",
+    "options": ["Left", "Right", "Inner", "Full"],
+    "correct": 3,
+    "category": "powerbi",
+    "level": 3
+  },
+  {
+    "question": "Which feature allows navigation between pages?",
+    "options": ["Bookmark", "Page Navigation", "Tooltip", "Slicer"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 3
+  },
+  {
+    "question": "Which DAX returns running total YTD?",
+    "options": ["TOTALYTD", "SUM", "COUNT", "AVERAGE"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 3
+  },
+  {
+    "question": "Which table should have unique values for relationships?",
+    "options": ["Fact", "Dimension", "Bridge", "Transaction"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 3
+  },
+  {
+    "question": "What is Row Level Security used for?",
+    "options": ["Formatting", "Filtering by user", "Modeling", "Sharing"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 3
+  },
+  {
+    "question": "Which visual shows part-to-whole?",
+    "options": ["Bar", "Line", "Pie", "Scatter"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 3
+  },
+  {
+    "question": "Which connectivity mode supports composite models?",
+    "options": ["Import", "DirectQuery", "Live", "Import & DirectQuery"],
+    "correct": 3,
+    "category": "powerbi",
+    "level": 3
+  },
+
+  {
+    "question": "Which DAX function returns previous year?",
+    "options": ["SAMEPERIODLASTYEAR", "DATEADD", "PARALLELPERIOD", "PREVIOUSYEAR"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 4
+  },
+  {
+    "question": "Which tool is used to monitor performance?",
+    "options": ["DAX Studio", "Performance Analyzer", "Gateway", "Service"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 4
+  },
+  {
+    "question": "Which feature syncs slicers across pages?",
+    "options": ["Bookmark", "Sync Slicers", "Drill", "Page Filter"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 4
+  },
+  {
+    "question": "Which DAX returns median?",
+    "options": ["AVG", "MEAN", "MEDIAN", "CENTER"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 4
+  },
+  {
+    "question": "Which visual is best for correlation?",
+    "options": ["Scatter", "Bar", "Pie", "Card"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 4
+  },
+  {
+    "question": "Which function creates calculated tables?",
+    "options": ["SUMMARIZE", "CALCULATE", "FILTER", "VALUES"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 4
+  },
+  {
+    "question": "Which license supports paginated reports?",
+    "options": ["Free", "Pro", "Premium", "Mobile"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 4
+  },
+  {
+    "question": "Which DAX handles errors?",
+    "options": ["TRY", "IFERROR", "ERROR", "CATCH"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 4
+  },
+  {
+    "question": "Which visual shows variance?",
+    "options": ["Waterfall", "Gauge", "Pie", "Map"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 4
+  },
+  {
+    "question": "Which feature enables natural language queries?",
+    "options": ["Q&A", "AI Visual", "Chat", "Copilot"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 4
+  },
+
+
+  {
+    "question": "Which DAX function returns rank?",
+    "options": ["RANK", "RANKX", "TOPN", "ORDER"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 5
+  },
+  {
+    "question": "Which function removes all filters?",
+    "options": ["ALL", "REMOVEFILTERS", "CLEAR", "RESET"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 5
+  },
+  {
+    "question": "Which visual shows trend over time?",
+    "options": ["Bar", "Line", "Pie", "Map"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 5
+  },
+  {
+    "question": "Which join returns all rows from both tables?",
+    "options": ["Left", "Right", "Inner", "Full"],
+    "correct": 3,
+    "category": "powerbi",
+    "level": 5
+  },
+  {
+    "question": "Which feature allows navigation between pages?",
+    "options": ["Bookmark", "Page Navigation", "Tooltip", "Slicer"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 5
+  },
+  {
+    "question": "Which DAX returns running total YTD?",
+    "options": ["TOTALYTD", "SUM", "COUNT", "AVERAGE"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 5
+  },
+  {
+    "question": "Which table should have unique values for relationships?",
+    "options": ["Fact", "Dimension", "Bridge", "Transaction"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 5
+  },
+  {
+    "question": "What is Row Level Security used for?",
+    "options": ["Formatting", "Filtering by user", "Modeling", "Sharing"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 5
+  },
+  {
+    "question": "Which visual shows part-to-whole?",
+    "options": ["Bar", "Line", "Pie", "Scatter"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 5
+  },
+  {
+    "question": "Which connectivity mode supports composite models?",
+    "options": ["Import", "DirectQuery", "Live", "Import & DirectQuery"],
+    "correct": 3,
+    "category": "powerbi",
+    "level": 5
+  },
+
+  {
+    "question": "Which DAX function returns previous year?",
+    "options": ["SAMEPERIODLASTYEAR", "DATEADD", "PARALLELPERIOD", "PREVIOUSYEAR"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 6
+  },
+  {
+    "question": "Which tool is used to monitor performance?",
+    "options": ["DAX Studio", "Performance Analyzer", "Gateway", "Service"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 6
+  },
+  {
+    "question": "Which feature syncs slicers across pages?",
+    "options": ["Bookmark", "Sync Slicers", "Drill", "Page Filter"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 6
+  },
+  {
+    "question": "Which DAX returns median?",
+    "options": ["AVG", "MEAN", "MEDIAN", "CENTER"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 6
+  },
+  {
+    "question": "Which visual is best for correlation?",
+    "options": ["Scatter", "Bar", "Pie", "Card"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 6
+  },
+  {
+    "question": "Which function creates calculated tables?",
+    "options": ["SUMMARIZE", "CALCULATE", "FILTER", "VALUES"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 6
+  },
+  {
+    "question": "Which license supports paginated reports?",
+    "options": ["Free", "Pro", "Premium", "Mobile"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 6
+  },
+  {
+    "question": "Which DAX handles errors?",
+    "options": ["TRY", "IFERROR", "ERROR", "CATCH"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 6
+  },
+  {
+    "question": "Which visual shows variance?",
+    "options": ["Waterfall", "Gauge", "Pie", "Map"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 6
+  },
+  {
+    "question": "Which feature enables natural language queries?",
+    "options": ["Q&A", "AI Visual", "Chat", "Copilot"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 6
+  },
+
+  {
+    "question": "Which DAX function returns rank?",
+    "options": ["RANK", "RANKX", "TOPN", "ORDER"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 7
+  },
+  {
+    "question": "Which function removes all filters?",
+    "options": ["ALL", "REMOVEFILTERS", "CLEAR", "RESET"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 7
+  },
+  {
+    "question": "Which visual shows trend over time?",
+    "options": ["Bar", "Line", "Pie", "Map"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 7
+  },
+  {
+    "question": "Which join returns all rows from both tables?",
+    "options": ["Left", "Right", "Inner", "Full"],
+    "correct": 3,
+    "category": "powerbi",
+    "level": 7
+  },
+  {
+    "question": "Which feature allows navigation between pages?",
+    "options": ["Bookmark", "Page Navigation", "Tooltip", "Slicer"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 7
+  },
+  {
+    "question": "Which DAX returns running total YTD?",
+    "options": ["TOTALYTD", "SUM", "COUNT", "AVERAGE"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 7
+  },
+  {
+    "question": "Which table should have unique values for relationships?",
+    "options": ["Fact", "Dimension", "Bridge", "Transaction"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 7
+  },
+  {
+    "question": "What is Row Level Security used for?",
+    "options": ["Formatting", "Filtering by user", "Modeling", "Sharing"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 7
+  },
+  {
+    "question": "Which visual shows part-to-whole?",
+    "options": ["Bar", "Line", "Pie", "Scatter"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 7
+  },
+  {
+    "question": "Which connectivity mode supports composite models?",
+    "options": ["Import", "DirectQuery", "Live", "Import & DirectQuery"],
+    "correct": 3,
+    "category": "powerbi",
+    "level": 7
+  },
+  {
+    "question": "Which DAX function returns previous year?",
+    "options": ["SAMEPERIODLASTYEAR", "DATEADD", "PARALLELPERIOD", "PREVIOUSYEAR"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 8
+  },
+  {
+    "question": "Which tool helps analyze visual performance?",
+    "options": ["DAX Studio", "Performance Analyzer", "Power Query", "Gateway"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 8
+  },
+  {
+    "question": "Which feature allows drill-through navigation?",
+    "options": ["Bookmark", "Drill Through", "Tooltip", "Slicer"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 8
+  },
+  {
+    "question": "Which DAX function shifts date context?",
+    "options": ["DATEADD", "CALCULATE", "FILTER", "ALL"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 8
+  },
+  {
+    "question": "Which visual shows contribution to total?",
+    "options": ["Waterfall", "Scatter", "Line", "Map"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 8
+  },
+  {
+    "question": "Which feature allows tooltip pages?",
+    "options": ["Report Tooltip", "Bookmark", "Slicer", "Drilldown"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 8
+  },
+  {
+    "question": "Which DAX function removes filters from one column only?",
+    "options": ["ALL", "ALLEXCEPT", "REMOVEFILTERS", "VALUES"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 8
+  },
+  {
+    "question": "Which storage mode supports large datasets?",
+    "options": ["Import", "DirectQuery", "Live", "Excel"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 8
+  },
+  {
+    "question": "Which visual displays KPI status?",
+    "options": ["Table", "Matrix", "KPI", "Map"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 8
+  },
+  {
+    "question": "Which feature allows custom visuals?",
+    "options": ["Marketplace", "AppSource", "Power Query", "Gateway"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 8
+  },
+
+  {
+    "question": "Which DAX function evaluates expression row by row?",
+    "options": ["SUM", "SUMX", "CALCULATE", "FILTER"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 9
+  },
+  {
+    "question": "Which function creates a virtual relationship?",
+    "options": ["LOOKUPVALUE", "USERELATIONSHIP", "TREATAS", "RELATED"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 9
+  },
+  {
+    "question": "Which DAX function activates inactive relationship?",
+    "options": ["RELATED", "USERELATIONSHIP", "FILTER", "ALL"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 9
+  },
+  {
+    "question": "Which feature allows incremental data refresh?",
+    "options": ["Power Query", "Incremental Refresh", "Gateway", "Dataflow"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 9
+  },
+  {
+    "question": "Which license is required for incremental refresh?",
+    "options": ["Free", "Pro", "Premium", "Mobile"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 9
+  },
+  {
+    "question": "Which visual is best for hierarchical data?",
+    "options": ["Tree Map", "Scatter", "Line", "Card"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 9
+  },
+  {
+    "question": "Which feature supports what-if analysis?",
+    "options": ["Parameter", "Bookmark", "Slicer", "Filter"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 9
+  },
+  {
+    "question": "Which DAX function returns selected value?",
+    "options": ["VALUES", "SELECTEDVALUE", "HASONEVALUE", "FIRSTNONBLANK"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 9
+  },
+  {
+    "question": "Which DAX function checks single value context?",
+    "options": ["HASONEVALUE", "VALUES", "COUNTROWS", "ISFILTERED"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 9
+  },
+  {
+    "question": "Which visual supports forecasting?",
+    "options": ["Line Chart", "Bar Chart", "Pie Chart", "Map"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 9
+  },
+
+  {
+    "question": "Which feature allows dataset reuse?",
+    "options": ["Shared Dataset", "Workspace", "App", "Dataflow"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 10
+  },
+  {
+    "question": "Which DAX function returns running total?",
+    "options": ["SUM", "TOTALYTD", "SUMX", "CALCULATE"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 10
+  },
+  {
+    "question": "Which feature allows report deployment?",
+    "options": ["Workspace", "Deployment Pipeline", "Gateway", "Service"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 10
+  },
+  {
+    "question": "Which visual is best for distribution?",
+    "options": ["Histogram", "Pie", "Gauge", "Card"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 10
+  },
+  {
+    "question": "Which DAX function handles blank values?",
+    "options": ["IFBLANK", "COALESCE", "ISBLANK", "BLANK"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 10
+  },
+  {
+    "question": "Which feature supports AI insights?",
+    "options": ["Q&A", "Key Influencers", "Table", "Matrix"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 10
+  },
+  {
+    "question": "Which DAX function returns top N rows?",
+    "options": ["TOPN", "RANKX", "FILTER", "ORDERBY"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 10
+  },
+  {
+    "question": "Which feature supports paginated reports?",
+    "options": ["Power BI Desktop", "Power BI Service", "Report Builder", "Gateway"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 10
+  },
+  {
+    "question": "Which storage engine handles compression?",
+    "options": ["SQL Engine", "VertiPaq", "Spark", "Hadoop"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 10
+  },
+  {
+    "question": "Which feature supports multi-language reports?",
+    "options": ["Bookmarks", "Translations", "Tooltips", "Slicers"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 10
+  },
+  {
+    "question": "Which DAX function evaluates expression row by row?",
+    "options": ["SUM", "SUMX", "CALCULATE", "FILTER"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 11
+  },
+  {
+    "question": "Which function creates a virtual relationship?",
+    "options": ["LOOKUPVALUE", "USERELATIONSHIP", "TREATAS", "RELATED"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 11
+  },
+  {
+    "question": "Which DAX function activates inactive relationship?",
+    "options": ["RELATED", "USERELATIONSHIP", "FILTER", "ALL"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 11
+  },
+  {
+    "question": "Which feature allows incremental data refresh?",
+    "options": ["Power Query", "Incremental Refresh", "Gateway", "Dataflow"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 11
+  },
+  {
+    "question": "Which license is required for incremental refresh?",
+    "options": ["Free", "Pro", "Premium", "Mobile"],
+    "correct": 2,
+    "category": "powerbi",
+    "level": 11
+  },
+  {
+    "question": "Which visual is best for hierarchical data?",
+    "options": ["Tree Map", "Scatter", "Line", "Card"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 11
+  },
+  {
+    "question": "Which feature supports what-if analysis?",
+    "options": ["Parameter", "Bookmark", "Slicer", "Filter"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 11
+  },
+  {
+    "question": "Which DAX function returns selected value?",
+    "options": ["VALUES", "SELECTEDVALUE", "HASONEVALUE", "FIRSTNONBLANK"],
+    "correct": 1,
+    "category": "powerbi",
+    "level": 11
+  },
+  {
+    "question": "Which DAX function checks single value context?",
+    "options": ["HASONEVALUE", "VALUES", "COUNTROWS", "ISFILTERED"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 11
+  },
+  {
+    "question": "Which visual supports forecasting?",
+    "options": ["Line Chart", "Bar Chart", "Pie Chart", "Map"],
+    "correct": 0,
+    "category": "powerbi",
+    "level": 11
+  }
+]
+
